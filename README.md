@@ -1,11 +1,10 @@
-
 <div align="center">
   <img alt="banner" src="https://github.com/amineastro/amineastro/blob/main/github_banner.jpg">
 </div>
 
 ## Hi there 🖐️  
 <p>- this' Amine from Algeria, I'm a full stack web developer, with the best UX/UI skills and a serious data visualization experience.</p>
-<p>- I'm more into linux and bash rather than other os systems, I do C in my free time.</p>
+<p>- I'm more into linux, bash and vim rather than other os systems, I do C in my free time.</p>
 
 <img align="left" alg="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
@@ -33,6 +32,10 @@
 <img align="left" alt="redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 <img align="left" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 <img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
+
+<p>- I'm currently working on a couple of exciting side projects, that will probably be available sooner for
+  the open source community as my very first profesional projects.
+</p>
 
 <!--
 <img align="left" alt="arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
