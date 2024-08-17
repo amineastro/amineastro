@@ -33,11 +33,21 @@
 <img align="left" alt="sequelize" src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white">
 <img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 
-<p>- I'm currently working on a couple of exciting side projects, that will probably be available sooner for
+<p align="left">- I'm currently working on a couple of exciting side projects, that will probably be available sooner for
   the open source community as my very first profesional projects.
 </p>
 
+
+  
 <!--
+
+<div align="center">
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amineastro&layout=compact)
+
+</div>
+
+
 <img align="left" alt="arch linux" src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white">
 <img alt="vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white">
 
