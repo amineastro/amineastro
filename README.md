@@ -34,7 +34,7 @@
 <img alt="typeorm" src="https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white">
 
 <p align="left">- I'm currently working on a couple of exciting side projects, that will probably be available sooner for
-  the open source community as my very first profesional projects.
+  the open source community.
 </p>
 
 
