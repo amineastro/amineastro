@@ -4,7 +4,7 @@
 
 ## Hi there 🖐️  
 <p>- this' Amine from Algeria, I'm a full stack web developer, with the best UX/UI skills and a serious data visualization experience.</p>
-<p>- I'm more into linux, bash and vim rather than other os systems, I do C in my free time.</p>
+<p>- I'm way more into linux and vim, than windows and vscode.</p>
 
 <img align="left" alg="javascript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
 <img align="left" alt="typescript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
